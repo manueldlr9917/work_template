@@ -1,0 +1,7 @@
+name: curso-work-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter
+prefix: /home/manuel/anaconda3/envs/curso-work-env
